@@ -1,40 +1,30 @@
-SQL PIZZA Sales Analysis at PizzaVilla!!!!
+Pizza Sales Analysis SQL Project
+This project focuses on analyzing pizza sales data using SQL queries to derive actionable insights for a fictional pizza chain. The analysis covers various aspects from basic order analysis to advanced revenue optimization.
+
+Queries Included:
 Order Analysis:
-Investigate and retrieve insights on the total number of orders placed, providing a foundational understanding of transaction volume.
-
+Retrieve the total number of orders placed.
 Revenue Analysis:
-Calculate total revenue generated from pizza sales, crucial for assessing financial performance and business growth.
-
+Calculate the total revenue generated from pizza sales.
 Premium Product Identification:
-Identify the highest-priced pizza sold, helping to understand customer preferences for premium offerings.
-
+Identify the highest-priced pizza.
 Customer Preferences:
-Determine the most common pizza size ordered, aiding in inventory management and customer segmentation strategies.
-
+Identify the most common pizza size ordered.
 Popular Pizza Types:
-List the top 5 most ordered pizza types along with their quantities, highlighting customer favorites and informing marketing strategies.
-
-
+List the top 5 most ordered pizza types along with their quantities.
 Category Analysis:
-Perform table joins to quantify the total quantity of each pizza category ordered, enabling deeper insights into product line performance.
-
+Join the necessary tables to find the total quantity of each pizza category ordered.
 Temporal Analysis:
-Analyze the distribution of orders by hour of the day to optimize staffing and delivery operations.
-
+Determine the distribution of orders by hour of the day.
 Segmented Insights:
-Join relevant tables to explore category-wise distribution of pizzas, facilitating targeted marketing and operational decisions.
-
+Join relevant tables to find the category-wise distribution of pizzas.
 Daily Order Trends:
-Group orders by date to calculate the average number of pizzas ordered per day, useful for forecasting and resource allocation.
-
+Group the orders by date and calculate the average number of pizzas ordered per day.
 Revenue Optimization:
-Determine the top 3 most ordered pizza types based on revenue, guiding pricing strategies and promotional efforts.
-
+Determine the top 3 most ordered pizza types based on revenue.
 Revenue Contribution Analysis:
-Calculate the percentage contribution of each pizza type to total revenue, guiding product mix and pricing decisions.
-
+Calculate the percentage contribution of each pizza type to total revenue.
 Revenue Trends Over Time:
-Analyze cumulative revenue generated over time to identify seasonal trends and plan marketing campaigns.
-
+Analyze the cumulative revenue generated over time.
 Category-specific Insights:
-Determine the top 3 most ordered pizza types based on revenue within each pizza category, optimizing product offerings and inventory management strategies.
+Determine the top 3 most ordered pizza types based on revenue for each pizza category.
