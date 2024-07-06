@@ -1,8 +1,9 @@
-Pizza Sales Analysis SQL Project
-This project focuses on analyzing pizza sales data using SQL queries to derive actionable insights for a fictional pizza chain. The analysis covers various aspects from basic order analysis to advanced revenue optimization.
+##Pizza Sales Analysis SQL Project
+
+#This project focuses on analyzing pizza sales data using SQL queries to derive actionable insights for a fictional pizza chain. The analysis covers various aspects from basic order analysis to advanced revenue optimization.
 
 
-Queries Included:
+###Queries Included:
 Order Analysis:
 Retrieve the total number of orders placed.
 
